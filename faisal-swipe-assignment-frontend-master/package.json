@@ -47,7 +47,7 @@
     ]
   },
   "engines": {
-    "node": "20.x"
+    "node": "18.x"
   },
   "devDependencies": {
     "postcss": "^8.4.31",
